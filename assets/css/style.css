@@ -3,13 +3,13 @@
     padding: 0;
     margin: 0;
 }
-head{
+/*head{
     display:none;
 }
 body {
     background-color: #d9dcd6;
-    display:block
-}
+   display:block;
+}*/
 
 .header {
     padding: 20px;
@@ -52,15 +52,15 @@ a {
 p {
     font-size: 16px;
 }
-div{
+/*div{
     display:block;
-}
+}*/
 .hero {
-
+    background-image: url(../images/digital-marketing-meeting.jpg);
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-  /*  background-image: url("..images/digital-marketing-meeting.jpg");*/
+
     background-size: cover;
     background-position: center;
 }
