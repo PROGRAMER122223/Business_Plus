@@ -22,6 +22,6 @@ This web page is designed to inculcate methods to optimize search engines.This h
 
 ##URL
 
-1.  URL of deployed application
+1.  URL of deployed application :/c/Users/indel/Business_Plus
 
-2. URL of github repository  
+2. URL of github repository  :https://programer122223.github.io/Business_Plus/
