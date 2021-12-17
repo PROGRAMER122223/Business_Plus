@@ -190,6 +190,30 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+
+  
+
+.content.search-engine-optimization figcaption {
+    background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+
+
+mark{
+    background-color: lightgray;
+}
+
+
+
+
+
+
+
+
 /*class selector sets place clear on both sides of element  */
 .footer {
     padding: 30px;
