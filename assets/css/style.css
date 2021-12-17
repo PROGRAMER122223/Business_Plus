@@ -16,7 +16,15 @@
 .header h1 {
     display: inline-block;
     font-size: 48px;
+
 }
+/*sets color when hover*/
+.header h1:hover{
+color:black;
+
+}
+
+    
 /*class selector of element of header class*/
 .header h1 .seo {
     color: #d9dcd6;
@@ -45,10 +53,18 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+
 /*sets p elements font-size*/
+a:hover{
+    color:aquamarine;
+    text-decoration-line: underline;
+    font-size:larger;
+}
+
 p {
     font-size: 16px;
 }
+
 /*class selecor*/
 .hero {
     background-image: url(../images/digital-marketing-meeting.jpg);
