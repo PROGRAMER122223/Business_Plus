@@ -138,6 +138,31 @@ p:hover{
     margin-bottom: 10px;
     text-align: center;
 }
+/*set font color */
+.benefit-lead h3:hover {
+    
+   color:orange;
+   font-stretch: expanded;
+   font-size: xx-large; 
+}
+/*set font color*/
+.benefit-brand h3:hover {
+    color:orange;
+    font-stretch: expanded;
+    font-size: xx-large; 
+
+
+}
+/*set font color*/
+.benefit-cost h3 {
+    
+    color:orange;
+    font-stretch: expanded;
+    font-size: xx-large; 
+
+}
+
+
 /*element.class selector sets img element's margin,max_width and display to block */
 .benefit-lead img {
     display: block;
