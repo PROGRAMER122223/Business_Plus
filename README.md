@@ -11,7 +11,7 @@ This web page is designed to inculcate methods to optimize search engines.This h
 3.  Icon and image elements included 'alt'attributes
 * It specifies alternative text to describe appearence and function of an image on page.
 
-4  .Heading attributes fall in sequencial order.
+4.  Heading attributes fall in sequencial order.
 
 * heading elements are placed in sequential descending order.
 
