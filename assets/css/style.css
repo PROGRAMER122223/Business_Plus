@@ -61,7 +61,7 @@ a:hover{
     font-size:larger;
 }
 
-p {
+p{
     font-size: 16px;
 }
 
@@ -74,6 +74,7 @@ p {
 
     background-size: cover;
     background-position: center;
+    
 }
 
 /*class seletor,specifies how box should be floated*/
@@ -196,6 +197,23 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+.search-engine-optimization h2:hover{
+ font-size:xx-large;
+ color:orange;
+}
+
+.online-reputation-management h2:hover {
+   font-size:xx-large;
+    color:orange;
+   }
+
+.social-media-marketing h2:hover{
+    font-size:xx-large;
+    color:orange;
+   }
+      
+
 /*element .class selector sets font-size and margin-bottom*/
 .online-reputation-management h2 {
     margin-bottom: 20px;
