@@ -65,6 +65,9 @@ p{
     font-size: 16px;
 }
 
+p:hover{
+    color:aqua;
+}
 /*class selecor*/
 .hero {
     background-image: url(../images/digital-marketing-meeting.jpg);
