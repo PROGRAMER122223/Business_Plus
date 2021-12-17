@@ -5,6 +5,7 @@
     margin: 0;
 }
 
+    
 /*class selectors */
 .header {
     padding: 20px;
@@ -24,7 +25,7 @@ color:black;
 
 }
 
-    
+
 /*class selector of element of header class*/
 .header h1 .seo {
     color: #d9dcd6;
@@ -154,7 +155,7 @@ p:hover{
 
 }
 /*set font color*/
-.benefit-cost h3 {
+.benefit-cost h3:hover {
     
     color:orange;
     font-stretch: expanded;
@@ -286,4 +287,23 @@ mark{
 /*sets font size of 20px to h2 element of footer class */
 .footer h2 {
     font-size: 20px;
+
 }
+.footer h2:hover{
+    font-size: larger;
+    font-style: oblique;
+    color: rgb(167, 20, 44);
+    text-decoration: dotted;
+}
+.footer p:hover{
+    color:brown;
+    
+    }
+
+.footer:hover{
+    background-color: aquamarine;
+}
+    
+
+    
+
