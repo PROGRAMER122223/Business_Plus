@@ -22,6 +22,6 @@ This web page is designed to inculcate methods to optimize search engines.This h
 
 ##URL
 
-1.  URL of deployed application :https://drive.google.com/drive/folders/1cgIhLA5c6dH-DY26qibYFUyGryFU4MpV?usp=sharing
+1.  URL of deployed application :https://programer122223.github.io/Business_Plus/
 
-2. URL of github repository  :https://programer122223.github.io/Business_Plus/
+2. URL of github repository  :https://github.com/PROGRAMER122223/Business_Plus.git
